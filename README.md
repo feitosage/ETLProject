@@ -27,4 +27,4 @@ O objetivo é criar um fluxo automatizado, escalável e confiável para gerencia
   pip install -r requirements.txt
 
 API_URL=https://api.exemplo.com
-API_KEY=sua_chave_de_api
+API_KEY=sua_chave_de_api# ETLProject
